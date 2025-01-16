@@ -42,7 +42,7 @@ INNER JOIN skills_dim as s ON s.skill_id = s_j.skill_id
 -- Azure and Bitbucket (2 mentions each): Reflecting the demand for cloud services and collaborative development.
 -- Go (2 mentions): Rising in popularity for efficient backend systems.
  
-![Image](https://github.com/user-attachments/assets/536d30d0-dfd7-490c-9071-7187e689a0f8)
+
 
 [
   {
